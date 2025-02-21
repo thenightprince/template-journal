@@ -2,7 +2,7 @@ export const SITE_FAVICON = "/favicon.png";
 export const SITE_LOGO = "/journal-logo.svg";
 export const SITE_TITLE = "Journal";
 export const SITE_DESCRIPTION =
-  "Blog";
+  "Home of The Night Prince";
 
 export const MENUS = [
   {
@@ -22,4 +22,4 @@ export const MENUS = [
   }
 ];
 
-export const FOOTER_CONTENT = "Love Everyone";
+export const FOOTER_CONTENT = "You Will Accept the Gifts Offered to You";
