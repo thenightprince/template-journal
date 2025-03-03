@@ -1,8 +1,8 @@
 export const SITE_FAVICON = "/favicon.png";
 export const SITE_LOGO = "/journal-logo.svg";
-export const SITE_TITLE = "Journal";
+export const SITE_TITLE = "The Night Prince";
 export const SITE_DESCRIPTION =
-  "Home of The Night Prince";
+  "Musings of The Night Prince";
 
 export const MENUS = [
   {
@@ -22,4 +22,4 @@ export const MENUS = [
   }
 ];
 
-export const FOOTER_CONTENT = "You Will Accept the Gifts Offered to You";
+export const FOOTER_CONTENT = "ae 2025 tnp";
